@@ -8,7 +8,7 @@ O evento foi realizado pela equipe da [Rocketseat](https://www.rocketseat.com.br
 O  objetivo do evento, é de dar um upgrade nos conhecimentos das tecnologias mais modernas na Stack de javascript. Neste caso, o NestJS que no momento de desenvolvimento deste projeto, é uma tecnologia que está sendo bastante reconhecída pelo mercado de trabalho.
 
 <h2 style="text-align:center;">
- Documentações
+ Outras informações
 </h2>
 
 * [Notion](https://chivalrous-diplodocus-c53.notion.site/Ignite-Lab-04-Node-js-698f1c6e4ad24ed5a655fd6392ebfffa) com informações sobre o projeto disponibilizado durante o evento
