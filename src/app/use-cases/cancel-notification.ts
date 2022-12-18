@@ -23,8 +23,6 @@ export class CancelNotification {
       notificationId,
     );
 
-    // Persistir essa notificação no banco
-
     if (!notification) {
       throw new NotificationNotFound();
     }

@@ -21,8 +21,6 @@ export class ReadNotification {
       notificationId,
     );
 
-    // Persistir essa notificação no banco
-
     if (!notification) {
       throw new NotificationNotFound();
     }

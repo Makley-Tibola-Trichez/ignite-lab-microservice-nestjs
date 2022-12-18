@@ -30,8 +30,6 @@ export class SendNotification {
 
     await this.notificationsRepository.create(notification);
 
-    // Persistir essa notificação no banco
-
     return { notification };
   }
 }
