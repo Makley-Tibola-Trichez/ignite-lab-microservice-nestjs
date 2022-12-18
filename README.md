@@ -2,11 +2,12 @@
  Ignite Lab - Microserviço de notificações em NestJS
 </h1>
 
-4º edição da maratona Ignite Lab, realizado entre o seguinte período, 11/12/2022 - 18/12/2022.
+Esta é a 4ª edição da maratona Ignite Lab, realizado entre o seguinte período, 11/12/2022 - 18/12/2022.
 O evento foi realizado pela equipe da [Rocketseat](https://www.rocketseat.com.br/).
 
-O  objetivo do evento, é de dar um upgrade nos conhecimentos das tecnologias mais modernas na Stack de javascript. Neste caso, o NestJS que no momento de desenvolvimento deste projeto, é uma tecnologia que está sendo bastante reconhecída pelo mercado de trabalho.
+O  objetivo do evento, é de dar um upgrade nos conhecimentos das tecnologias mais modernas na Stack de javascript. Neste caso, o NestJS que no momento de desenvolvimento deste projeto, é uma tecnologia que está sendo bastante reconhecida pelo mercado de trabalho.
 
+O projeto desenvolvido foi um micro serviço de notificações, possui as ações de marcar uma notificação como lida, não lida, criar uma nova, marcar como excluída, contar a quantidade de notificações por destinatário da notificação
 <h2 style="text-align:center;">
  Outras informações
 </h2>
